@@ -1,0 +1,61 @@
+{
+   "blockdevices": [
+      {
+         "name": "loop0",
+         "size": "4096",
+         "type": "loop",
+         "fstype": "squashfs",
+         "mountpoint": "/snap/bare/5",
+         "model": null,
+         "uuid": null,
+         "rm": false,
+         "ro": true
+      },
+      {
+         "name": "sda",
+         "size": "429496729600",
+         "type": "disk",
+         "fstype": null,
+         "mountpoint": null,
+         "model": "QEMU HARDDISK",
+         "uuid": null,
+         "rm": false,
+         "ro": false,
+         "children": [
+            {
+               "name": "sda1",
+               "size": "12025908736",
+               "type": "part",
+               "fstype": "swap",
+               "mountpoint": "[SWAP]",
+               "model": null,
+               "uuid": "aed0739f-14e1-4937-97be-b9cd3ac5d2a7",
+               "rm": false,
+               "ro": false
+            },
+            {
+               "name": "sda2",
+               "size": "416385334272",
+               "type": "part",
+               "fstype": "xfs",
+               "mountpoint": "/",
+               "model": null,
+               "uuid": "56868af8-4452-422e-8382-3ecef3fb94ae",
+               "rm": false,
+               "ro": false
+            }
+         ]
+      },
+      {
+         "name": "sr0",
+         "size": "1073741824",
+         "type": "rom",
+         "fstype": null,
+         "mountpoint": null,
+         "model": "QEMU DVD-ROM",
+         "uuid": null,
+         "rm": true,
+         "ro": true
+      }
+   ]
+}

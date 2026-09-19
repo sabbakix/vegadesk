@@ -1,0 +1,2 @@
+{"Command":"\"/hello\"","CreatedAt":"2026-06-13 23:53:20 +0200 CEST","ID":"9b755db11fd4","Image":"hello-world","Names":"practical_borg","Ports":"","State":"exited","Status":"Exited (0) 3 months ago"}
+{"Command":"\"/portainer\"","CreatedAt":"2026-06-13 18:59:27 +0200 CEST","ID":"470059e8eec5","Image":"portainer/portainer-ce:latest","Names":"portainer","Ports":"0.0.0.0:9443->9443/tcp","State":"running","Status":"Up 8 hours"}
