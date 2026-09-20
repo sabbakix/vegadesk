@@ -62,6 +62,11 @@ To install it onto your `$PATH` instead:
 ```bash
 go install ./cmd/vegadesk
 ```
+Or you copy paste the following command to install
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/sabbakix/vegadesk/main/install.sh | sh
+```
 
 ## Use
 
