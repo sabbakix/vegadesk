@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"vegadesk/internal/execx"
+	"github.com/sabbakix/vegadesk/internal/execx"
 )
 
 // Device is one lsblk node: a whole disk, or (recursively) one of its

@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"vegadesk/internal/execx"
+	"github.com/sabbakix/vegadesk/internal/execx"
 )
 
 // Entry is one journal line, normalized to the fields vegadesk displays.

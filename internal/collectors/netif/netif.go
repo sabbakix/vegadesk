@@ -11,7 +11,7 @@ import (
 	"io"
 	"strings"
 
-	"vegadesk/internal/execx"
+	"github.com/sabbakix/vegadesk/internal/execx"
 )
 
 // AddrInfo is one address assigned to an interface.

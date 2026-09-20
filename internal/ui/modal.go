@@ -6,7 +6,7 @@ import (
 	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"
 
-	"vegadesk/internal/ui/theme"
+	"github.com/sabbakix/vegadesk/internal/ui/theme"
 )
 
 // ConfirmResultMsg is emitted once the user answers a Confirm dialog.

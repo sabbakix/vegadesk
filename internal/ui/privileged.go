@@ -6,8 +6,8 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"vegadesk/internal/execx"
-	"vegadesk/internal/privilege"
+	"github.com/sabbakix/vegadesk/internal/execx"
+	"github.com/sabbakix/vegadesk/internal/privilege"
 )
 
 // PrivilegedDoneMsg is sent once a RunPrivileged command finishes.

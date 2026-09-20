@@ -1,4 +1,4 @@
-module vegadesk
+module github.com/sabbakix/vegadesk
 
 go 1.24.2
 

@@ -14,7 +14,7 @@ import (
 	"io"
 	"strings"
 
-	"vegadesk/internal/execx"
+	"github.com/sabbakix/vegadesk/internal/execx"
 )
 
 // Domain is one libvirt domain (VM) as reported by `virsh list --all`.

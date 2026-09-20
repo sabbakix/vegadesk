@@ -21,7 +21,7 @@ import (
 	"regexp"
 	"strings"
 
-	"vegadesk/internal/execx"
+	"github.com/sabbakix/vegadesk/internal/execx"
 )
 
 // Rule is one line of `ufw status verbose`'s rule table.

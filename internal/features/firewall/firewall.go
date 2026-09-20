@@ -17,10 +17,10 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"vegadesk/internal/collectors/firewall"
-	"vegadesk/internal/privilege"
-	"vegadesk/internal/ui"
-	"vegadesk/internal/ui/theme"
+	"github.com/sabbakix/vegadesk/internal/collectors/firewall"
+	"github.com/sabbakix/vegadesk/internal/privilege"
+	"github.com/sabbakix/vegadesk/internal/ui"
+	"github.com/sabbakix/vegadesk/internal/ui/theme"
 )
 
 // Model is the Firewall section.

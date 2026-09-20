@@ -4,7 +4,7 @@ import (
 	"github.com/charmbracelet/bubbles/table"
 	"github.com/charmbracelet/lipgloss"
 
-	"vegadesk/internal/ui/theme"
+	"github.com/sabbakix/vegadesk/internal/ui/theme"
 )
 
 // FitColumns adapts cols to totalWidth, so a table stays inside a narrow

@@ -13,11 +13,11 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/muesli/termenv"
 
-	"vegadesk/internal/app"
-	"vegadesk/internal/execx"
-	"vegadesk/internal/platform"
-	"vegadesk/internal/privilege"
-	"vegadesk/internal/ui/theme"
+	"github.com/sabbakix/vegadesk/internal/app"
+	"github.com/sabbakix/vegadesk/internal/execx"
+	"github.com/sabbakix/vegadesk/internal/platform"
+	"github.com/sabbakix/vegadesk/internal/privilege"
+	"github.com/sabbakix/vegadesk/internal/ui/theme"
 )
 
 func main() {

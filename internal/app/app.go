@@ -13,9 +13,9 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"vegadesk/internal/platform"
-	"vegadesk/internal/privilege"
-	"vegadesk/internal/ui/theme"
+	"github.com/sabbakix/vegadesk/internal/platform"
+	"github.com/sabbakix/vegadesk/internal/privilege"
+	"github.com/sabbakix/vegadesk/internal/ui/theme"
 )
 
 // Section is a feature module pluggable into the sidebar. Update must accept

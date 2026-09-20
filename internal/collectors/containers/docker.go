@@ -7,7 +7,7 @@ import (
 	"io"
 	"strings"
 
-	"vegadesk/internal/execx"
+	"github.com/sabbakix/vegadesk/internal/execx"
 )
 
 type dockerRuntime struct{}

@@ -11,12 +11,12 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"vegadesk/internal/collectors/cpu"
-	"vegadesk/internal/collectors/disk"
-	"vegadesk/internal/collectors/mem"
-	"vegadesk/internal/collectors/net"
-	"vegadesk/internal/ui"
-	"vegadesk/internal/ui/theme"
+	"github.com/sabbakix/vegadesk/internal/collectors/cpu"
+	"github.com/sabbakix/vegadesk/internal/collectors/disk"
+	"github.com/sabbakix/vegadesk/internal/collectors/mem"
+	"github.com/sabbakix/vegadesk/internal/collectors/net"
+	"github.com/sabbakix/vegadesk/internal/ui"
+	"github.com/sabbakix/vegadesk/internal/ui/theme"
 )
 
 const (

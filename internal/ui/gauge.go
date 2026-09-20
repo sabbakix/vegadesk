@@ -7,7 +7,7 @@ import (
 
 	"github.com/charmbracelet/lipgloss"
 
-	"vegadesk/internal/ui/theme"
+	"github.com/sabbakix/vegadesk/internal/ui/theme"
 )
 
 // eighths gives sub-character horizontal resolution for bar fills, the same

@@ -15,7 +15,7 @@ import (
 	"os"
 	"time"
 
-	"vegadesk/internal/execx"
+	"github.com/sabbakix/vegadesk/internal/execx"
 )
 
 // Status is resolved once at startup (EUID doesn't change at runtime, and

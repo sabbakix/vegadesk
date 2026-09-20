@@ -10,9 +10,9 @@ import (
 	"github.com/charmbracelet/bubbles/table"
 	tea "github.com/charmbracelet/bubbletea"
 
-	"vegadesk/internal/collectors/containers"
-	"vegadesk/internal/ui"
-	"vegadesk/internal/ui/theme"
+	"github.com/sabbakix/vegadesk/internal/collectors/containers"
+	"github.com/sabbakix/vegadesk/internal/ui"
+	"github.com/sabbakix/vegadesk/internal/ui/theme"
 )
 
 const refreshInterval = 5 * time.Second

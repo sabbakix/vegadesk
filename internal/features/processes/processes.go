@@ -15,9 +15,9 @@ import (
 	"github.com/charmbracelet/bubbles/table"
 	tea "github.com/charmbracelet/bubbletea"
 
-	"vegadesk/internal/collectors/process"
-	"vegadesk/internal/ui"
-	"vegadesk/internal/ui/theme"
+	"github.com/sabbakix/vegadesk/internal/collectors/process"
+	"github.com/sabbakix/vegadesk/internal/ui"
+	"github.com/sabbakix/vegadesk/internal/ui/theme"
 )
 
 const (

@@ -14,10 +14,10 @@ import (
 	"github.com/charmbracelet/bubbles/table"
 	tea "github.com/charmbracelet/bubbletea"
 
-	"vegadesk/internal/collectors/accounts"
-	"vegadesk/internal/privilege"
-	"vegadesk/internal/ui"
-	"vegadesk/internal/ui/theme"
+	"github.com/sabbakix/vegadesk/internal/collectors/accounts"
+	"github.com/sabbakix/vegadesk/internal/privilege"
+	"github.com/sabbakix/vegadesk/internal/ui"
+	"github.com/sabbakix/vegadesk/internal/ui/theme"
 )
 
 // Model is the Users section.

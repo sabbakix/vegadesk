@@ -15,7 +15,7 @@ import (
 	"io"
 	"strings"
 
-	"vegadesk/internal/execx"
+	"github.com/sabbakix/vegadesk/internal/execx"
 )
 
 // Unit is one service unit's runtime state plus (if resolvable) its
